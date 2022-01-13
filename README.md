@@ -11,4 +11,5 @@ This rover has the capabilities to traverse rough terrain autonomously and perfo
 6. Arduino IDE
 
 ## Sceenshots and Photos
+![alt](https://github.com/Ghanmohan/inferno-website/blob/main/public/images/novus.jpeg)
 
