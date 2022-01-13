@@ -14,4 +14,3 @@ This rover has the capabilities to traverse rough terrain autonomously and perfo
 ![alt](https://github.com/Ghanmohan/inferno-website/blob/main/public/images/novus.jpeg)
 ![alt](https://github.com/Ghanmohan/inferno-website/blob/main/public/images/novus_2.jpeg)
 ![alt](https://github.com/Ghanmohan/inferno-website/blob/main/public/images/novus_3.jpeg)
-![alt](https://github.com/Ghanmohan/inferno-website/blob/main/public/images/ren.jpeg)
