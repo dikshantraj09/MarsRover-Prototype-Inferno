@@ -12,6 +12,12 @@
     type="spawn_model"
     args="-file $(find prototype_urdf_1)/urdf/prototype_urdf_1.urdf -urdf -model prototype_urdf_1"
     output="screen" />
+  <node
+    name="Arrow"
+    pkg="gazebo_ros"
+    type="spawn_model"
+    args="-file $(find inferno_bot)/urdf/arr.urdf -urdf -model arrow"
+    output="screen" />
   <!--node
     name="spawn_model2"
     pkg="gazebo_ros"
